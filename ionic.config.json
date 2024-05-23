@@ -1,0 +1,13 @@
+{
+  "name": "photo-gallery",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "defaultProject": {
+    "serve": {
+      "host": "0.0.0.0",
+      "port": 8100
+    }
+  }
+}
